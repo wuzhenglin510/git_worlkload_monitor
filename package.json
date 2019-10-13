@@ -1,0 +1,20 @@
+{
+  "name": "workload_monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.deeptel.com.cn/leo/workload_monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dayjs": "^1.8.16",
+    "shelljs": "^0.8.3"
+  }
+}
