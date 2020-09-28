@@ -17,13 +17,13 @@
 ```bash
 成功切换到 master
 成功切换到 pre
-duofriend-customer-service-web 2019-09-20 [{"engineer":"HMSJ29\\Administrator","branches":["develop","leo"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"lijiawei","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"luxiang","branches":["develop","leo"],"date":"2019-09-20","add":2978,"delete":487},{"engineer":"michael.feng","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"zhangmz","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"张梅瞻","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"冯任运","branches":["master"],"date":"2019-09-20","add":0,"delete":0}]
+2019-09-20 [{"engineer":"HMSJ29\\Administrator","branches":["develop","leo"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"demo1","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"demo6","branches":["develop","leo"],"date":"2019-09-20","add":2978,"delete":487},{"engineer":"demo5","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"demo3","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"demo2","branches":["develop","leo","pre"],"date":"2019-09-20","add":0,"delete":0},{"engineer":"demo4","branches":["master"],"date":"2019-09-20","add":0,"delete":0}]
 成功切换到 develop
 成功切换到 e45043e~
 成功切换到 e45043e
-[发现疑似复制文件] 相似程度:0.9702164411156877 file1[e45043e]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop_BACKUP_24020.vue @ file2[e45043e~]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop.vue
-[发现疑似复制文件] 相似程度:0.9941002434954169 file1[e45043e]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop_BASE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop.vue
-[发现疑似复制文件] 相似程度:1 file1[e45043e]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop_LOCAL_24020.vue @ file2[e45043e~]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop.vue
-[发现疑似复制文件] 相似程度:0.961203955192789 file1[e45043e]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop_REMOTE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/duofriend-customer-service-web/web-admin/src/components/selectShop.vue
+[发现疑似复制文件] 相似程度:0.9702164411156877 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_BACKUP_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
+[发现疑似复制文件] 相似程度:0.9941002434954169 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_BASE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
+[发现疑似复制文件] 相似程度:1 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_LOCAL_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
+[发现疑似复制文件] 相似程度:0.961203955192789 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_REMOTE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
 成功切换到 develop
 ```
