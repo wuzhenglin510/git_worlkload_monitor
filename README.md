@@ -22,7 +22,9 @@
 成功切换到 e45043e~
 成功切换到 e45043e
 [发现疑似复制文件] 相似程度:0.9702164411156877 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_BACKUP_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
-[发现疑似复制文件] 相似程度:0.9941002434954169 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_BASE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
+[发现疑似复制文件] 相似程度:0.9941002434954169 file1[e450
+
+43e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_BASE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
 [发现疑似复制文件] 相似程度:1 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_LOCAL_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
 [发现疑似复制文件] 相似程度:0.961203955192789 file1[e45043e]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop_REMOTE_24020.vue @ file2[e45043e~]:/Users/wzl/repository/demo1/web-admin/src/components/selectShop.vue
 成功切换到 develop
